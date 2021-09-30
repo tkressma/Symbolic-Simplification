@@ -32,7 +32,6 @@ The following shows the particular forms and their equivalent functions produced
   <li>(and x true y) => (and x y)</li>
  </ol>
 
-
-
+Read more about the project here: https://danielschlegel.org/wp/teaching/csc344-spring-2021/assignment-2/
 
 
